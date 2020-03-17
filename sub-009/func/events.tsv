@@ -1,0 +1,201 @@
+onset	duration	sample	trial_type	response_time	stimulus	run
+1.007	5	615268	friendTraitBlock	3.274	persuasive, articulate and even eloquent	1
+12.025	5	626286	friendTraitBlock	2.071	arrogant or full of themselves	1
+21.042	5	635303	friendTraitBlock	1.392	healthy and fit	1
+30.059	5	644320	friendTraitBlock	1.626	trustworthy, faithful	1
+41.077	5	655338	friendTraitBlock	3.149	compliant, submissive	1
+52.095	5	666356	selfGroupBlock	3.179	hipsters	1
+63.114	5	677375	selfGroupBlock	1.846	Buddhists	1
+72.13	5	686391	selfGroupBlock	2.362	humanities majors	1
+81.147	5	695408	selfGroupBlock	0.778	Jewish	1
+92.165	5	706426	selfGroupBlock	1.116	stoners	1
+103.184	5	717445	selfRoleBlock	3.401	motivates others to a common goal	1
+112.2	5	726461	selfRoleBlock	2.326	excludes unpopular or unwanted others from the group	1
+121.217	5	735478	selfRoleBlock	2.645	challenges the group's beliefs	1
+128.232	5	742493	selfRoleBlock	3.606	cleans and tidies up after others	1
+139.251	5	753512	selfRoleBlock	1.95	shares study notes with others	1
+154.272	5	768533	friendTraitBlock	2.481	cold and aloof	1
+165.29	5	779551	friendTraitBlock	2.104	greedy or power-hungry	1
+176.309	5	790570	friendTraitBlock	3.557	artistic, appreciating aesthetics	1
+183.324	5	797585	friendTraitBlock	2.449	clever and cunning	1
+192.341	5	806602	friendTraitBlock	2.839	happy and cheerful	1
+205.36	5	819621	selfTraitBlock	4.62	promiscuous, sleeping around a lot	1
+212.376	5	826637	selfTraitBlock	5.477	considerate and kind	1
+221.382	5	835643	selfTraitBlock	1.488	romantic or charming	1
+232.401	5	846662	selfTraitBlock	4.379	finds fault with others	1
+241.417	5	855678	selfTraitBlock	4.521	hurried, impatient	1
+256.439	5	870700	friendRoleBlock	4.548	maintains the group's traditions and rituals	1
+267.457	5	881718	friendRoleBlock	4.182	loosens up the group	1
+276.474	5	890735	friendRoleBlock	3.086	creates rules for the group	1
+285.49	5	899751	friendRoleBlock	2.422	barters with others on behalf of the group	1
+296.509	5	910770	friendRoleBlock	5.365	discovers new knowledge for the group	1
+307.517	5	921778	friendGroupBlock	3.227	liberals	1
+318.535	5	932796	friendGroupBlock	1.295	nerds	1
+329.553	5	943814	friendGroupBlock	2.79	fraternity or sorority members	1
+338.57	5	952831	friendGroupBlock	1.282	Middle Eastern	1
+347.587	5	961848	friendGroupBlock	1.446	stoners	1
+358.605	5	972866	selfTraitBlock	4.233	blunt, no-nonsense	1
+365.62	5	979881	selfTraitBlock	2.738	hedonistic and pleasure seeking	1
+374.637	5	988898	selfTraitBlock	2.343	trustworthy, faithful	1
+385.655	5	999916	selfTraitBlock	3.635	healthy and fit	1
+394.672	5	1008933	selfTraitBlock	1.382	jealous, petty	1
+409.693	5	1023954	friendRoleBlock	6.036	excludes unpopular or unwanted others from the group	1
+420.702	5	1034963	friendRoleBlock	5.023	keeps the group from dangerous or risky ventures	1
+431.7	5	1045961	friendRoleBlock	3.969	lets others in the group take advantage of them	1
+440.717	5	1054978	friendRoleBlock	2.389	reminds others of their obligations	1
+447.732	5	1061993	friendRoleBlock	1.478	throws parties for the group	1
+460.752	5	1075013	selfRoleBlock	2.715	barters with others on behalf of the group	1
+469.768	5	1084029	selfRoleBlock	1.552	leads the group	1
+480.787	5	1095048	selfRoleBlock	2.397	discovers new knowledge for the group	1
+491.805	5	1106066	selfRoleBlock	1.625	keeps others on schedule	1
+500.822	5	1115083	selfRoleBlock	4.382	counsels others in difficult life decisions	1
+1.007	5	1194742	selfTraitBlock	4.159	persuasive, articulate and even eloquent	2
+8.023	5	1201758	selfTraitBlock	3.98	cooperative, enjoying working with others	2
+19.041	5	1212776	selfTraitBlock	5.431	callous, caring little for others	2
+30.049	5	1223784	selfTraitBlock	3.046	greedy or power-hungry	2
+39.066	5	1232801	selfTraitBlock	1.841	careful about doing things the right way, meticulous	2
+52.086	5	1245821	friendTraitBlock	3.66	hedonistic and pleasure seeking	2
+63.104	5	1256839	friendTraitBlock	3.556	perverse, having unhealthy habits	2
+74.122	5	1267857	friendTraitBlock	4.62	apathetic or indifferent	2
+83.139	5	1276874	friendTraitBlock	1.947	finds fault with others	2
+92.156	5	1285891	friendTraitBlock	3.252	sentimental and sensitive, experiencing emotions strongly	2
+103.174	5	1296909	selfRoleBlock	5.563	asks questions when the group is confused	2
+114.182	5	1307917	selfRoleBlock	2.644	helps people with physically demanding tasks	2
+123.199	5	1316934	selfRoleBlock	2.283	ensures others in the group act morally	2
+134.217	5	1327952	selfRoleBlock	5.36	engages others to be active and fit	2
+141.223	5	1334958	selfRoleBlock	2.737	maintains the group's traditions and rituals	2
+154.242	5	1347977	selfGroupBlock	1.759	Asian	2
+165.261	5	1358996	selfGroupBlock	2.025	nerds	2
+174.277	5	1368012	selfGroupBlock	3.207	liberals	2
+181.293	5	1375028	selfGroupBlock	1.847	Middle Eastern	2
+192.311	5	1386046	selfGroupBlock	1.562	conservatives	2
+205.331	5	1399066	friendRoleBlock	3.306	finds new opportunities for the group	2
+216.349	5	1410084	friendRoleBlock	1.866	leads the group	2
+225.366	5	1419101	friendRoleBlock	2.683	counsels others in difficult life decisions	2
+236.384	5	1430119	friendRoleBlock	3.2	keeps others on schedule	2
+245.401	5	1439136	friendRoleBlock	3.965	shares study notes with others	2
+256.419	5	1450154	friendTraitBlock	4.538	spontaneous, adventuresome	2
+267.437	5	1461172	friendTraitBlock	5.762	perseverant until the task is finished	2
+278.445	5	1472180	friendTraitBlock	1.762	hurried, impatient	2
+287.462	5	1481197	friendTraitBlock	2.092	reckless and impulsive	2
+296.479	5	1490214	friendTraitBlock	2.597	romantic or charming	2
+307.497	5	1501232	friendGroupBlock	2.725	hipsters	2
+318.515	5	1512250	friendGroupBlock	1.029	Buddhists	2
+325.531	5	1519266	friendGroupBlock	1.365	Muslims	2
+334.547	5	1528282	friendGroupBlock	1.226	students	2
+345.566	5	1539301	friendGroupBlock	1.078	Black	2
+358.586	5	1552321	selfTraitBlock	5.348	sentimental and sensitive, experiencing emotions strongly	2
+369.594	5	1563329	selfTraitBlock	1.269	outgoing, sociable	2
+376.609	5	1570344	selfTraitBlock	1.892	clever and cunning	2
+385.626	5	1579361	selfTraitBlock	2.157	perverse, having unhealthy habits	2
+394.643	5	1588378	selfTraitBlock	2.219	reckless and impulsive	2
+409.664	5	1603399	selfRoleBlock	4.423	keeps the group from dangerous or risky ventures	2
+420.682	5	1614417	selfRoleBlock	3.494	attacks others who harm the group	2
+429.699	5	1623434	selfRoleBlock	2.801	challenges the morals and norms of the group	2
+436.714	5	1630449	selfRoleBlock	4.664	advises the group on strategy in competitions and games	2
+445.731	5	1639466	selfRoleBlock	1.678	helps others find romantic partners	2
+460.752	5	1654487	friendRoleBlock	5.342	deceives others in the group for amusement or pleasure	2
+471.76	5	1665495	friendRoleBlock	2.397	tutors others in the group	2
+480.777	5	1674512	friendRoleBlock	1.766	helps others find romantic partners	2
+491.795	5	1685530	friendRoleBlock	4.572	challenges the group's beliefs	2
+498.811	5	1692546	friendRoleBlock	3.525	ensures others follow the group's rules	2
+1.007	5	1769523	selfTraitBlock	2.132	depressed, blue	3
+10.024	5	1778540	selfTraitBlock	1.613	gets nervous and anxious easily	3
+17.039	5	1785555	selfTraitBlock	2.093	perseverant until the task is finished	3
+28.058	5	1796574	selfTraitBlock	2.418	eminent, popular, and captivating	3
+37.074	5	1805590	selfTraitBlock	1.445	compliant, submissive	3
+52.096	5	1820612	friendTraitBlock	3.958	passionate, opinionated	3
+61.112	5	1829628	friendTraitBlock	1.378	promiscuous, sleeping around a lot	3
+70.129	5	1838645	friendTraitBlock	3.973	prone to boredom, listless	3
+77.144	5	1845660	friendTraitBlock	2.625	jealous, petty	3
+88.163	5	1856679	friendTraitBlock	4.107	brave, courageous	3
+103.184	5	1871700	friendRoleBlock	4.762	engages others to be active and fit	3
+110.199	5	1878715	friendRoleBlock	2.121	challenges others' authority in the group	3
+119.216	5	1887732	friendRoleBlock	2.679	gives others in the group false hope	3
+130.234	5	1898750	friendRoleBlock	2.595	hoards the group's resources for the future	3
+139.251	5	1907767	friendRoleBlock	3.028	ensures others in the group act morally	3
+154.272	5	1922788	selfGroupBlock	1.554	Muslims	3
+165.29	5	1933806	selfGroupBlock	1.189	fraternity or sorority members	3
+172.306	5	1940822	selfGroupBlock	0.865	women	3
+181.322	5	1949838	selfGroupBlock	0.993	Canadians	3
+192.341	5	1960857	selfGroupBlock	2.653	White	3
+205.36	5	1973876	friendRoleBlock	4.429	provides emotional support to the group	3
+212.376	5	1980892	friendRoleBlock	2.22	organizes and coordinates the group's plans	3
+221.392	5	1989908	friendRoleBlock	2.537	divides up and assigns others to tasks	3
+232.411	5	2000927	friendRoleBlock	3.325	resolves conflicts in the group	3
+241.427	5	2009943	friendRoleBlock	2.976	shares gossip with the group	3
+256.449	5	2024965	friendTraitBlock	5.663	unathletic, weak, or physically limited in some fashion	3
+267.457	5	2035973	friendTraitBlock	2.129	cooperative, enjoying working with others	3
+278.475	5	2046991	friendTraitBlock	2.273	callous, caring little for others	3
+285.491	5	2054007	friendTraitBlock	3.411	unsatisfied with the way things are	3
+294.507	5	2063023	friendTraitBlock	5.201	careful about doing things the right way, meticulous	3
+307.517	5	2076033	selfRoleBlock	4.239	gives others in the group false hope	3
+316.534	5	2085050	selfRoleBlock	4.616	deceives others in the group for amusement or pleasure	3
+327.552	5	2096068	selfRoleBlock	3.345	ensures others follow the group's rules	3
+336.569	5	2105085	selfRoleBlock	2.063	entertains the group	3
+347.587	5	2116103	selfRoleBlock	4.709	challenges others' authority in the group	3
+358.605	5	2127121	friendGroupBlock	2.061	conservatives	3
+369.624	5	2138140	friendGroupBlock	2.642	White	3
+376.639	5	2145155	friendGroupBlock	1.293	Canadians	3
+385.656	5	2154172	friendGroupBlock	1.372	women	3
+394.672	5	2163188	friendGroupBlock	3.162	commuter students	3
+409.694	5	2178210	selfRoleBlock	2.686	organizes and coordinates the group's plans	3
+418.71	5	2187226	selfRoleBlock	2.645	creates rules for the group	3
+427.727	5	2196243	selfRoleBlock	2.16	hoards the group's resources for the future	3
+438.745	5	2207261	selfRoleBlock	2.821	reminds others of their obligations	3
+445.761	5	2214277	selfRoleBlock	3.011	finds new opportunities for the group	3
+460.782	5	2229298	selfTraitBlock	3.001	dull, unintelligent	3
+471.8	5	2240316	selfTraitBlock	2.402	unsatisfied with the way things are	3
+480.817	5	2249333	selfTraitBlock	3.161	cold and aloof	3
+489.834	5	2258350	selfTraitBlock	2.811	apathetic or indifferent	3
+496.849	5	2265365	selfTraitBlock	2.077	arrogant or full of themselves	3
+1.008	5	2418370	selfTraitBlock	3.571	confident, secure in themselves	4
+10.024	5	2427386	selfTraitBlock	1.112	happy and cheerful	4
+21.043	5	2438405	selfTraitBlock	5.985	emotionally needy, craving affirmation or attention	4
+30.049	5	2447411	selfTraitBlock	1.979	artistic, appreciating aesthetics	4
+37.065	5	2454427	selfTraitBlock	4.089	prone to boredom, listless	4
+52.086	5	2469448	friendGroupBlock	1.789	Jewish	4
+61.103	5	2478465	friendGroupBlock	1.831	men	4
+70.119	5	2487481	friendGroupBlock	1.524	Christians	4
+77.135	5	2494497	friendGroupBlock	1.016	Asian	4
+88.153	5	2505515	friendGroupBlock	1.381	humanities majors	4
+103.174	5	2520536	selfTraitBlock	2.714	unathletic, weak, or physically limited in some fashion	4
+110.19	5	2527552	selfTraitBlock	2.036	spontaneous, adventuresome	4
+119.206	5	2536568	selfTraitBlock	3.23	passionate, opinionated	4
+130.225	5	2547587	selfTraitBlock	3.791	brave, courageous	4
+141.243	5	2558605	selfTraitBlock	3.659	relaxed, handles stress well	4
+154.263	5	2571625	friendRoleBlock	3.299	challenges the morals and norms of the group	4
+163.279	5	2580641	friendRoleBlock	3.59	motivates others to a common goal	4
+174.298	5	2591660	friendRoleBlock	2.345	attacks others who harm the group	4
+181.313	5	2598675	friendRoleBlock	2.636	helps people with physically demanding tasks	4
+192.331	5	2609693	friendRoleBlock	3.892	entertains the group	4
+205.351	5	2622713	selfRoleBlock	3.561	provides emotional support to the group	4
+216.369	5	2633731	selfRoleBlock	2.068	throws parties for the group	4
+223.384	5	2640746	selfRoleBlock	1.965	helps others find their aspirations	4
+234.403	5	2651765	selfRoleBlock	3.347	lets others in the group take advantage of them	4
+243.419	5	2660781	selfRoleBlock	4.522	tutors others in the group	4
+256.439	5	2673801	selfRoleBlock	6.885	shames group members for their mistakes	4
+263.444	5	2680806	selfRoleBlock	3.286	resolves conflicts in the group	4
+274.463	5	2691825	selfRoleBlock	4.285	loosens up the group	4
+283.479	5	2700841	selfRoleBlock	1.529	shares gossip with the group	4
+292.496	5	2709858	selfRoleBlock	3.452	divides up and assigns others to tasks	4
+307.517	5	2724879	friendTraitBlock	2.619	eminent, popular, and captivating	4
+314.533	5	2731895	friendTraitBlock	1.275	outgoing, sociable	4
+323.549	5	2740911	friendTraitBlock	3.432	relaxed, handles stress well	4
+334.568	5	2751930	friendTraitBlock	1.925	considerate and kind	4
+343.584	5	2760946	friendTraitBlock	2.727	confident, secure in themselves	4
+358.606	5	2775968	selfGroupBlock	3.847	Christians	4
+365.621	5	2782983	selfGroupBlock	1.443	students	4
+374.638	5	2792000	selfGroupBlock	2.353	commuter students	4
+385.656	5	2803018	selfGroupBlock	2.419	men	4
+396.674	5	2814036	selfGroupBlock	1.483	Black	4
+409.694	5	2827056	friendTraitBlock	2.785	emotionally needy, craving affirmation or attention	4
+420.712	5	2838074	friendTraitBlock	1.551	depressed, blue	4
+429.729	5	2847091	friendTraitBlock	3.059	gets nervous and anxious easily	4
+438.746	5	2856108	friendTraitBlock	1.588	dull, unintelligent	4
+449.764	5	2867126	friendTraitBlock	3.466	blunt, no-nonsense	4
+460.782	5	2878144	friendRoleBlock	3.742	asks questions when the group is confused	4
+467.798	5	2885160	friendRoleBlock	4.702	cleans and tidies up after others	4
+478.816	5	2896178	friendRoleBlock	2.334	helps others find their aspirations	4
+489.834	5	2907196	friendRoleBlock	2.009	shames group members for their mistakes	4
+498.851	5	2916213	friendRoleBlock	2.344	advises the group on strategy in competitions and games	4
